@@ -1,6 +1,6 @@
 # Sample Spring Boot Rest API
 
-This is a sample Spring Boot Rest API to retrieve banking branch names.  It supports selecting all or filtered names.  
+This is a sample Java 8 Spring Boot Rest API to retrieve banking branch names.  It supports selecting all or filtered names.  
 
 It uses Mockito to test and Lombok to help with annotations.
 
