@@ -1,4 +1,4 @@
-# SampleSpringBootRestAPI
+# Sample Spring Boot Rest API
 
 This is a sample Spring Boot Rest API to retrieve banking branch names.  It supports selecting all or filtered names.  
 
